@@ -1,0 +1,10 @@
+C:\Users\FIC\poo\cadastrovendaspoo\bin\Debug\netcoreapp2.0\cadastrovendaspoo.deps.json
+C:\Users\FIC\poo\cadastrovendaspoo\bin\Debug\netcoreapp2.0\cadastrovendaspoo.runtimeconfig.json
+C:\Users\FIC\poo\cadastrovendaspoo\bin\Debug\netcoreapp2.0\cadastrovendaspoo.runtimeconfig.dev.json
+C:\Users\FIC\poo\cadastrovendaspoo\bin\Debug\netcoreapp2.0\cadastrovendaspoo.dll
+C:\Users\FIC\poo\cadastrovendaspoo\bin\Debug\netcoreapp2.0\cadastrovendaspoo.pdb
+C:\Users\FIC\poo\cadastrovendaspoo\obj\Debug\netcoreapp2.0\cadastrovendaspoo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\poo\cadastrovendaspoo\obj\Debug\netcoreapp2.0\cadastrovendaspoo.AssemblyInfoInputs.cache
+C:\Users\FIC\poo\cadastrovendaspoo\obj\Debug\netcoreapp2.0\cadastrovendaspoo.AssemblyInfo.cs
+C:\Users\FIC\poo\cadastrovendaspoo\obj\Debug\netcoreapp2.0\cadastrovendaspoo.dll
+C:\Users\FIC\poo\cadastrovendaspoo\obj\Debug\netcoreapp2.0\cadastrovendaspoo.pdb
