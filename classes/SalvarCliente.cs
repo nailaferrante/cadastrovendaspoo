@@ -7,8 +7,8 @@ namespace cadastrovendaspoo.classes{
             string msg = "";
             StreamWriter arquivo = null;
             try{
+                arquivo = new StreamWriter("cadClientes.csv",true);
                 if(cpfValido(cliente.Cpf)){
-                    arquivo = new StreamWriter("cadClientes.csv",true);
                     arquivo.WriteLine(
                         cliente.Nome+";"+
                         cliente.Email+";"+
@@ -22,7 +22,7 @@ namespace cadastrovendaspoo.classes{
                 }
             }
             catch(Exception ex){
-                msg = "Erro ao gravar o arquivo :("+ex.Message;
+                msg = "Erro ao gravar o arquivo :( "+ex.Message;
             }
             finally{
                 arquivo.Close();
